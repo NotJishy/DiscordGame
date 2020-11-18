@@ -1,0 +1,22 @@
+{
+  "name": "discordgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotJishy/DiscordGame.git"
+  },
+  "author": "[Jishy, cullvox]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotJishy/DiscordGame/issues"
+  },
+  "homepage": "https://github.com/NotJishy/DiscordGame#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
